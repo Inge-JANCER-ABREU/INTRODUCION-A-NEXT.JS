@@ -33,7 +33,7 @@ Node.js es un entorno de ejecución de código abierto y multiplataforma que per
 ## Ejemplo de Código
 
 ```javascript
-// Ejemplo de un servidor HTTP básico con Node.js
+
 const http = require('http');
 
 const server = http.createServer((req, res) => {
