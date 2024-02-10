@@ -1,10 +1,3 @@
-### Que es node.js
-
--Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
-
-# Para que sirve 
-En pocas palabras, Node. js es un popular entorno de programación que puede utilizarse para crear aplicaciones a gran escala que necesiten soportar múltiples peticiones concurrentes. La E/S no bloqueante de un solo hilo lo convierte en una excelente opción para aplicaciones en tiempo real y de flujo de datos
-
 
 # Node.js
 
